@@ -19,15 +19,15 @@ Installation
 To run this Hangman game, you’ll need Python installed on your computer (Python 3.6+ recommended). Clone or download this repository, then run the game from your terminal.
 
 Clone the repository:
+git clone https://github.com/MadhaviNandan/hangman.git
+cd hangman
 
 Run the game:
-
-Copy code
 python hangman.py
 
 Files:
 hangman.py - The main game file containing the game logic.
-words.txt - Optional: a text file with a list of words that can be used in the game.
+words.txt - a text file with a list of words that are used in the game.
 
 Game Flow:
 Run the program.
